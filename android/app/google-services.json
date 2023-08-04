@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1009035579996",
+    "project_id": "sentry-5a1c6",
+    "storage_bucket": "sentry-5a1c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009035579996:android:10fda50a4d4dc7d7464c99",
+        "android_client_info": {
+          "package_name": "com.example.sentry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009035579996-3vlkrkvvgn0h7ua3lgb9sva0h0ier3a4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_TdshrkWFz-KUQvNaHrR73IVklSFrFSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009035579996-3vlkrkvvgn0h7ua3lgb9sva0h0ier3a4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1009035579996-a6s01l9aeef5o162n2lsa4ltn1013dq1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sentry"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
